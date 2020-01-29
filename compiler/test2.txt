@@ -1,0 +1,15 @@
+***type error
+global a=1;
+global b=1,2,3;
+print a+b;
+
+***defined error
+global a=2;
+
+if a==b then print 1; end if
+
+
+print a+c;
+
+
+if a==b then print 1; end

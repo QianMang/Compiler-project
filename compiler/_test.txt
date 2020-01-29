@@ -1,0 +1,15 @@
+global a=10;
+global b=10;
+if a+1<=b then
+	print b*2;
+	print b/2;
+	if b==10 then 
+		print b;
+	end if
+else 
+	print b-2;
+	print a;
+end if
+print b;
+
+
